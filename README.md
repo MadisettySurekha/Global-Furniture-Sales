@@ -1,5 +1,7 @@
 # Global Furniture Sales
 
+<img align="right" alt="coding" width="500" src="https://italica.com/cdn/shop/articles/furniture-market-2021.png?v=1668067114">
+
 ## Table of Contents
 
 - [Project Overview](project-overview)
@@ -7,7 +9,8 @@
 
 ## Project Overview
 Global Furniture Sales aims to provides insights into the sales performance. By analyzing various aspects of data,we seek to identify trends,patterns.
-Moreover In this dataset we calcualted revenue,sales by creating new column. |GlobalFurniture Dashboard|.
+Moreover In this dataset we calcualted revenue,sales by creating new column. 
+- |GlobalFurniture Dashboard|.
 
   !(GlobalFurniture Sales-list)[GlobalFurniture-Sales-list.xlsx](https://github.com/MadisettySurekha/Global-Furniture-Sales/new/main?filename=README.md)
 
